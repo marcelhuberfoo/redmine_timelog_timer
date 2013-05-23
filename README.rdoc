@@ -24,7 +24,7 @@ A zip archive can be gotten from {GitHub}[https://github.com/behigh/redmine_time
 
 == Installation and Setup
 
-1. Follow the Redmine plugin installation steps at: http://www.redmine.org/wiki/redmine/Plugins Make sure the plugin is installed to +plugins/timelog_timer+
+1. Follow the Redmine plugin installation steps at: http://www.redmine.org/wiki/redmine/Plugins
 2. Restart your Redmine web servers (e.g. mongrel, thin, mod_rails)
 3. Login and open any project, click the Log time Link in the right menu, click Start to start the timer
 
@@ -38,7 +38,7 @@ A zip archive can be gotten from {GitHub}[https://github.com/behigh/redmine_time
 
 === Git
 
-1. Open a shell to your Redmine's plugins/timelog_timer folder
+1. Open a shell to your Redmine's plugins/redmine_timelog_timer folder
 2. Update your Git copy with `git pull`
 3. Restart your Redmine
 
